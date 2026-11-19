@@ -1,4 +1,9 @@
-<?php
+<!-- 
+ Nama   : Amanda Lisa Asriningsih
+ NIM    : 250202001
+ KELAS  : TI-2A
+ -->
+ <?php
 require_once "koneksi.php";
 
 $sql ="SELECT * FROM anggota ";
